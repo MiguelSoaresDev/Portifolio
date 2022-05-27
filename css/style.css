@@ -1,0 +1,244 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+.navbar-toggler{
+    background-color: rgb(255, 252, 252) !important;
+}
+.cordefundo-certicados{
+    background-color: transparent;
+}
+
+.body-projetos{
+    background-image: url(/img/imagemdefundo_filtrada.png);
+    background-repeat: no-repeat;
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    flex-wrap: wrap;
+    background-position: cover;
+    height: 100%;
+    background-size: cover;
+    width: 100%;
+}
+.body-certicicacoes{
+    /* background-color: rgb(172, 172, 172) !important; */
+    /* background-image: url(/img/technology-g2fce07210_1920.jpg); */
+    background-image: url(/img/imagemdefundo_filtrada.png);
+    background-repeat: no-repeat;
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    flex-wrap: wrap;
+    background-position: cover;
+    height: 100%;
+    background-size: cover;
+    width: 100%;
+}
+.body-principal{
+    /* background-color:  #a3a0a0 !important; */
+    /* background-image: url(/img/technology-g2fce07210_1920.jpg); */
+    background-image: url(/img/imagemdefundo_filtrada.png);
+    background-repeat: no-repeat;
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    flex-wrap: wrap;
+    background-position: cover;
+    height: 100%;
+    background-size: cover;
+    width: 100%;
+}
+*{
+    padding: 0;
+    margin: 0;
+}
+.titulo-informaçoes{
+    font-family: 'Roboto Mono', monospace;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color:  #FFFFFF;
+}
+.titulo-certificacoes{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    margin: 1%;
+    font-family: 'Roboto Mono', monospace;
+    color:  #FFFFFF;
+}
+.Cursos-certificacoes{
+    display: flex;
+    justify-content: center;
+    margin: 1%;
+    font-family: 'Imprima', sans-serif;
+    font-family: 'Josefin Sans', sans-serif;
+    font-weight: 400;
+    font-size: 23px;
+    line-height: 32px;
+    color:  #FFFFFF;    
+}
+.Links-certificados{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Roboto Mono', monospace;
+    color:  #FFFFFF;
+}
+.baixar-certiicados{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.ajudaram-certificacoes{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 16%;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 32px;
+    color:  #FFFFFF;
+}
+.titulo-secundario-certificacoes{
+    font-family: 'Roboto Mono', monospace;
+    color:  #FFFFFF;
+}
+.itens-baixar-certificados{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 1%;
+    background-color: transparent;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 32px;
+    color: rgb(255, 255, 255);
+}
+a{
+    color: #ffe600;
+}
+.informacoes-escritas{
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 32px;
+    color:  #FFFFFF;
+}
+
+.informacoes-terciarias{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 3%;
+}
+
+#navbarNavAltMarkup{
+    justify-content: flex-end;
+}
+.nome-principal-certificacao{
+    color:  #ffffff;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 32px;
+
+}
+.nav-link{
+    font-size: 29px;
+    color:  #e1ff00!important; 
+    font-family: 'Josefin Sans', sans-serif;
+    margin-left: 34px;
+}
+.cordefundo{
+    background-color: transparent;
+} 
+.nome-principal{
+    color:  #fffffd;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 32px;
+
+} 
+.conteudo-principal-titulo{
+    font-family: 'Josefin Sans', sans-serif;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 32px;
+    margin: 34px;
+}
+.conteudo-principal-titulo{
+    color:  #FFFFFF;
+}
+.conteudo-principal-escrito{
+    font-family: 'Imprima', sans-serif;
+    font-family: 'Josefin Sans', sans-serif;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 29px;
+    margin: 20px;
+    color:  #FFFFFF;
+}
+.conteudo-secundario-sobre{
+    list-style: none;
+}
+.conteudo-secundario-titulo{
+    color: #FFFFFF;
+    font-family: 'Imprima', sans-serif;
+    font-family: 'Inria Sans', sans-serif;
+    font-family: 'Josefin Sans', sans-serif;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 30px;
+    text-align: center;
+    margin: 3%;
+}
+.conteudo-secundario-caracteristicas{
+    color: #FFFFFF;
+    font-family: 'Imprima', sans-serif;
+    font-family: 'Inria Sans', sans-serif;
+    font-family: 'Josefin Sans', sans-serif;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 30px;
+    text-align: center;
+    margin: 2%;
+}
+.Minha_imagem{
+    margin-top: 30px;
+}
+#footer{
+    background-color: rgb(255, 255, 255);
+    height: 20vh;
+}
+.footer{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.footer-img{
+    margin-bottom: 1rem;
+}
+.footer-img img{
+    width: 2rem;
+    height: 2rem;
+    margin-right: 1rem;
+}
+.color{
+    color: rgba(0, 0, 0, 0.411);
+}
+.coluna-arrumada{
+    justify-content: center
+}
